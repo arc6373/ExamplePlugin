@@ -1,0 +1,8 @@
+name: Solaris
+main: teh.predv2.Solaris.Main
+version: 0.0.1
+authors: [tehpredv2, incorruptable]
+commands: 
+  admin:
+    description: test command
+    usage: /admin
